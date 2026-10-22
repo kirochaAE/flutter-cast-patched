@@ -1,0 +1,5 @@
+# Upstream generated protobufs are preserved verbatim.
+analyzer:
+  exclude:
+    - lib/cast_channel/**
+    - build/**
